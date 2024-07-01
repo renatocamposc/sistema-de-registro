@@ -5,3 +5,5 @@
 Para Ejecutar el sistema, debes poner:
 
 ´´´npm instalar reaccionar´´´ 
+
+Sistema de Registro 2
